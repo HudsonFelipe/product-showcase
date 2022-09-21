@@ -1,7 +1,3 @@
-
-
 export default function Home() {
-  return (
-    <div>ola</div>
-  )
+  return <div>ola</div>
 }
